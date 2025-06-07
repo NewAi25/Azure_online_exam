@@ -1,0 +1,22 @@
+[
+  {
+    "question": "You need to ensure that only specific IP addresses can access an Azure Web App. What should you configure?",
+    "options": [
+      "Access restriction rules",
+      "Private endpoint",
+      "App Service Environment",
+      "Azure AD Conditional Access"
+    ],
+    "answer": "Access restriction rules"
+  },
+  {
+    "question": "Which tool helps you estimate the cost of Azure services before deploying?",
+    "options": [
+      "Azure Advisor",
+      "Azure Pricing Calculator",
+      "Azure Monitor",
+      "Azure Policy"
+    ],
+    "answer": "Azure Pricing Calculator"
+  }
+]
