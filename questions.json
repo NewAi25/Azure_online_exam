@@ -1,22 +1,402 @@
 [
   {
-    "question": "You need to ensure that only specific IP addresses can access an Azure Web App. What should you configure?",
+    "question": "What does Azure service 1 provide?",
     "options": [
-      "Access restriction rules",
-      "Private endpoint",
-      "App Service Environment",
-      "Azure AD Conditional Access"
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
     ],
-    "answer": "Access restriction rules"
+    "answer": "Option A - Resource provisioning"
   },
   {
-    "question": "Which tool helps you estimate the cost of Azure services before deploying?",
+    "question": "What does Azure service 2 provide?",
     "options": [
-      "Azure Advisor",
-      "Azure Pricing Calculator",
-      "Azure Monitor",
-      "Azure Policy"
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
     ],
-    "answer": "Azure Pricing Calculator"
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 3 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 4 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 5 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 6 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 7 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 8 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 9 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 10 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 11 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 12 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 13 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 14 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 15 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 16 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 17 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 18 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 19 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 20 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 21 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 22 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 23 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 24 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 25 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 26 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 27 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 28 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 29 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 30 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 31 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 32 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 33 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 34 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 35 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 36 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 37 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 38 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 39 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
+  },
+  {
+    "question": "What does Azure service 40 provide?",
+    "options": [
+      "Option A - Resource provisioning",
+      "Option B - Billing analysis",
+      "Option C - Cost optimization",
+      "Option D - Monitoring and alerting"
+    ],
+    "answer": "Option A - Resource provisioning"
   }
 ]
